@@ -16,14 +16,15 @@ Current fellows are listed [here](http://www.soremo.org/fellows).
 
 # Resources 
 
-Student Fellows may use the documents listed below to guide the organization of their writing / presentations: 
+[Link to main resource document](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/SoReMo-ResourcesForFellows.html)
 
-****LINKS TO TEMPLATE DOCUMENTS COMING SOON! ****
+>  Note: if you're just browsing the GitHub folder, you can't preview the html files. To preview within the browser, prepend `https://htmlpreview.github.io/?` to the path in your browser, such as in the above link. 
 
-* presentation template (intro/overview)
-* final pres dry-run template (technical, discussion)
+Student Fellows may use the documents listed below to guide the organization of their writing / presentations.  
+
+**LINKS TO TEMPLATE DOCUMENTS COMING SOON! **
 * final pres templat (open to the public, high-level with less tech detail)
-* template for final project
+* template for final project report
 
 ------ 
 
