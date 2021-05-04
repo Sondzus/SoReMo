@@ -17,13 +17,15 @@ The second part is expected to be understandable by an informed reader from an a
 # Guidelines for referees
 The following list of questions will guide you in evaluating the final report. 
 
-### What is this report about? 
-The report is a final summary of one SoReMo project, defined as an applied student project focusing on social responsibility. The report should include key 
+### Topic and context 
+What *is* this report about, in the first place?  The report is a final summary of one SoReMo project, defined as an applied student project focusing on social responsibility. The report should include key 
 issues that have been and remain to be addressed; this means not 'unfinished work' as such, but rather from the point of view of project extension or other future work that builds on the current project. 
 
-### What should be evaluated 
+### What to  evaluate 
 
-1. The following are questions the report is expected to address. Please comment on whether the author answered all of the following questions clearly in their writing: 
+1. Clarity of key points in the executive summary 
+
+The following are questions the report is expected to address. Please comment on whether the author answered all of the following questions clearly in their writing: 
 
 * What is the project about?
 * Who are the stakeholders? Participants? 
@@ -33,15 +35,28 @@ issues that have been and remain to be addressed; this means not 'unfinished wor
 * What issue related to social justice or equity was not solved or addressed?
 Why?
 
-
+2. Challenges and extensions
+Did the author identify the following items: 
 * What additional interdisciplinary approaches would the project have
 benefited from; utilizing feedback from subject matter experts and
 SoReMo advisors, when appropriate
-* Identify future developments, start-ups, community benefits that can be
-taken one step further.
+* Identify future developments, community benefits, etc. that can be obtained by taking this project one step further, or extending its scope, etc. 
+
+3. Clarity of exposition
+
+* Is the text written clearly? 
+* Does the text follow general professional  style guidelines (and avoids the use of slang, peer-to-peer conversational style, etc.)? 
+* Are there any confusing point or missing clarifications? 
+* Is there a bibliography and does it appear that all of the relevant work is properly cited? 
+
+4. Data
+Was there any data collected for the project? Did the author make it clear how this was done and identify whether the data is being shared as a result? If yes, then is the data being shared online though the Galvin Library or some other way? 
+
+5. Further comments
+Please feel free to  further comment on the project report, its value to the community (as you see it), or any other aspect of the write-up and its 
 
 
-## Things you are *not* expected to evaluate
+### What *not* to evaluate 
 
 * validity of proposed project within your discipline;
 * choice of projects or comparing one against another with which you may be familiar;
