@@ -90,7 +90,7 @@ Here are the main questions to address in your presentation:
 
 > **COMING SOON**
 
-**Tip**: Make sure you boil down the technical challenges from their field to be understandable by everyone. 
+**Tip**: Make sure you boil down the technical challenges from your field to be understandable by *everyone.* 
 
 
 
@@ -98,27 +98,85 @@ Here are the main questions to address in your presentation:
 
 #  Technical report 
 
-> **More info coming soon**
 
 ## Tasks
-* Write
-* Review
 
+Each fellow is usually expected to complete two tasks: 
 
-Work on technical report, engage with other participants, collaborate 
-Peer review of other students’ presentations and tech reports
+* Write a report; 
+* Peer review another  
 
-The technical report for the project focusing on So.Re., including key issues that have been / remain to be addressed (from the point of view of project extension / future work), will be submitted, reviewed, and published in our SoReMo Journal.  
+Throughout the semester, Fellows work on the technical part of their project and are expected to  engage with other participants, collaborate, etc. 
+In the end, each usually also completes a peer review of other students’ presentations and tech reports. 
+
+The technical report for the project focusing on social responsibility, including key issues that have been / remain to be addressed (from the point of view of project extension / future work), are to be submitted, reviewed, and published in the SoReMo Journal hosted by Illinois Tech's Galvin Library. 
 
 ## Objectives
-Think of this as a solution blueprint that could, one day, be turned into a product (with help of Kaplan Institute program? Faculty & students jointly). 
+
+The goal of the report is two-fold:  
+
+1. Offer a high-level executive summary of the project, and 
+2. Offer a detailed view into the technical aspects of the project. 
+
+The first part is expected to be understandable by anyone - a high school senior, a faculty member within and outside the main project discipline, and a family member not affiliated with a university. 
+The second part is expected to be understandable by an informed reader from an academic field related to that of the project, so that another student or faculty member in the future could gain enough information in order to build on this project in the future. 
+
+Think of this as a solution blueprint that could, one day, be turned into a product (with help of Kaplan Institute program? Faculty & students jointly).
 Also think of it as an exercise in academic writing for a general audience. 
 
 ## Structure
-sections in your document.  coming soon. 
+
+Your document needs to have at least two main sections. 
+
+#### 1. Executive summary 
+
+This section, expected to be no more than two pages in length, needs to clearly address the following questions.
+
+> The "why$\to$how$\to$what" of your project: 
+
+  * What is the project about?
+    - problem you are addressing;
+    - why it is relevant / important;
+    - why is it challenging -- either for society or within your discipline (answer what is most appropriate for your project, at best, answer both!); 
+  * Who are the stakeholders? Participants? 
+    - who does the project affect;
+    - who is a critical participant; 
+    - who can benefit in the end; 
+  * What is the project topic, area, major, methods?
+    - not everyone has any idea about the tools you are using. It is extremely important to set the stage for the audience. For example, if you are doing statistical modeling of social networks, you need to define what is a social network, and what is a statistical model, and why does anyone connect these two concepts (what's the idea _behind_ the area within which your problem is embedded). As another example, if you are studying an effect of A on B (or their relationship) via an observational study, you need to explain what this relationship means in practice in society, and what it means in technical terms within a discipline.
+  * What are the key findings?
+    - did you discover any new patterns? 
+    - do you have a proposal for society (or your neigborhood or your micro-society)?
+    - do you have a policy recommendation? 
+    - etc. 
+  * What issue related to social justice or equity was solved or addressed? How?
+    - The most exciting message! :) 
+  * What issue related to social justice or equity was *not* solved or addressed? Why?
+    - Identify any roadblocks or issues. This is equally as important as the above! 
+
+#### 2. Technical details 
+
+This section does not have a length restriction. You should feel free to write as much details as you find necessary to explain the technical backbone of your project. Some example things to consider: 
+
+* **Project timeline.** When did you begin? when did you finish? what are some major time points  and events that shaped your project - say, you got data, or you made a discovery, or you had to change course... 
+* **Context.** Within your field of research (or within the area of this project), how does one typically approach the problem, from what you've seen? Did you follow the usual? Did you use any out-of-the-box software, tools, sites, etc.? 
+* **Data.** Did you collect data? What was the process like? Did you design a survey? How did you do so? Etc. 
+* **Hands-on: analyses.** What kinds of (non)technical analyses did you do? 
+* **Conclusions.** Write all conclusions clearly. And assumptions. These are meant to be technical conclusions that translate directly to the high-level conclusions you wrote in the executive summary. 
+
+#### 3. Bibliography
+
+You must cite any and all resources used throughout your project. You should cite each reference in the text above where appropriate and list the full bibliographic entry here in this section. 
+Each Fellow is expected to follow the style guidelines for his/her/their discipline. 
+If you are not sure how to do this, please reach out to a (SoReMo) faculty member for help! 
+
+#### 4. Appendix 
+
+Additional analyses, figures, tables, code, any other parts of the 'report' you want to preserve and be able to point to, but do not fit in the main project storyline narrative. 
+
 
 ## Formatting
-template - .md or .tex, if those are your choices. coming soon. 
+template - .md or .tex, if those are your choices. **coming soon.** 
 
 --- 
 
