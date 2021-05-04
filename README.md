@@ -26,6 +26,12 @@ Student Fellows may use the documents listed below to guide the organization of 
 * final pres templat (open to the public, high-level with less tech detail)
 * template for final project report
 
+------
+
+# Faculty corner
+
+https://bookdown.org/yihui/rmarkdown/rmdformats.html
+
 ------ 
 
 # License
