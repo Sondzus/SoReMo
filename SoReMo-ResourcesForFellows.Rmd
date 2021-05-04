@@ -1,0 +1,148 @@
+---
+title: "Resources for SoReMo Fellows" 
+author: 
+  - Sonja Petrović, for SoReMo^[Socially Responible Modeling, Computation, and Design - a grassroots initiative at Illinois Tech.  [Homepage](https://www.soremo.org), [Email](mailto:sonja.petrovic@iit.edu).] 
+date: "Spring 2021 SoReMo Fellowships"
+output: rmdformats::readthedown
+urlcolor: darkblue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,comment = '', fig.width = 3, fig.height = 3
+  )
+```
+
+---
+
+# Introductory presentation 
+
+Here is a guideline to what to present during your first presentation at the [Forum](www.soremo.org/forum): 
+
+* What is the project about? 
+* Who are the stakeholders? 
+* Who are the participants? 
+* Why is the project important? 
+* What are the potential impacts?
+* What method do you think you will be using? 
+  * "Think" because this initial presentation is an *opportunity* for various faculty and subject matter experts (SMEs) to plug in, get involved, reach out to you, and offer guidance in a technical are that you project may benefit from utilizing. 
+  
+## Objective 
+  In the first presentation,  your job is describe the idea, motivation, and basic proposal, and the rest of the semester you'll work with mentors and experts who will help you along. 
+  
+## Slides templates
+You may, but don't have to, use [this IIT Google slides template](https://docs.google.com/presentation/d/1sjW_eok8G-ni3uiZGfMRXkl6rVlqY-igvlhaEp9A3uM/edit?usp=sharing) for your presentation. 
+If you are curious you can view two of the intro slides here: ***COMING SOON***
+
+  
+  
+# Final presentation dry-runs 
+
+This presentation is a 'warm-up' for the final one, and  only  Illinois Tech participants will be invited.  Others only if they are critical advisors and you and/or they feel like they need to be present. 
+
+Thus, there is less of a need to motivate the project again. You may assume everyone who is in the audience has seen your initial presentation. 
+At the same time, keep in mind it's been a couple of months, so do have a slide that overviews the problem setup again. 
+
+Here are the main questions to address: 
+
+> 
+* What problem was I solving and why? 
+* Topic, area, major, methods, findings? 
+* What issue related to social justice or equity was proposed to be solved or addressed? How? 
+* What issue related to social justice or equity was not solved or addressed? Why? 
+
+
+In a nutshell, your job during this presentation is to discuss issues, challenges, solutions, roadblocks, innovative ideas etc. that come out of the completed project, to this broad, multidisciplinary audience. 
+
+## Objective 
+
+* Obtain any last-minute feedback, get any possible red flags raised now, *before* the final-final public presentation. 
+* Ensure that core SoReMo faculty have no fundamental questions they feel are unanswered at the end.
+* Practice delivering the final presentation. 
+
+
+
+# Final presentation - a public event 
+
+This event will be open to the public. It is our goal to have as many external attendees as possible. 
+## Objectives
+
+By showcasing your completed work in the context of this program and reflecting on what you've done throughout the semester, we aim to:
+* Highlight your amazing work;
+* Inspire future student projects;
+* Invite future (corporate/government/NGO/academic) partners;
+* Spark new ideas for collaboration. 
+
+
+## What to put in your slides 
+
+Here are the main questions to address in your presentation: 
+
+> 
+* What problem was I solving and why? 
+* Topic, area, major, methods, findings? 
+* What issue related to social justice or equity was proposed to be solved or addressed? How? 
+* What issue related to social justice or equity was not solved or addressed? Why? 
+* What additional interdisciplinary approaches would the project have benefited from $\leftarrow$ utilize feedback from SMEs to answer this, if appropriate.  
+* Identify future developments, start-ups, community benefits that can be taken one step further. 
+
+## More info....
+
+> **COMING SOON**
+
+**Tip**: Make sure you boil down the technical challenges from their field to be understandable by everyone. 
+
+
+
+
+
+#  Technical report 
+
+> **More info coming soon**
+
+## Tasks
+* Write
+* Review
+
+
+Work on technical report, engage with other participants, collaborate 
+Peer review of other students’ presentations and tech reports
+
+The technical report for the project focusing on So.Re., including key issues that have been / remain to be addressed (from the point of view of project extension / future work), will be submitted, reviewed, and published in our SoReMo Journal.  
+
+## Objectives
+Think of this as a solution blueprint that could, one day, be turned into a product (with help of Kaplan Institute program? Faculty & students jointly). 
+Also think of it as an exercise in academic writing for a general audience. 
+
+## Structure
+sections in your document.  coming soon. 
+
+## Formatting
+template - .md or .tex, if those are your choices. coming soon. 
+
+--- 
+
+# Appendix 
+
+> What is the format of this document?
+
+This document  was created using `R Markdown`. You can read more about it [here](https://www.markdownguide.org/getting-started/) and check out a [cheat sheet here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), which will guide you through installing RStudio, and from there the moment you create  a new `.Rmd` document, it will be a  working template to start from.  If you are used to using `LaTeX`, no worries: it can be embedded into `Markdown`, with overall simpler formatting. I hope you find this useful! 
+
+## Notes
+This document is work in progress. The first iteration was made to help the inaugural class of fellows
+prepare for final presentation & project reports. 
+
+---
+
+
+# License
+
+This document  was first created for SoReMo Fellows in Spring 2021. 
+The materials listed here are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][image]][hyperlink]
+
+  [hyperlink]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  [image]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+    
