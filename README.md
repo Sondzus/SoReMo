@@ -16,21 +16,22 @@ Current fellows are listed [here](http://www.soremo.org/fellows).
 
 # Resources 
 
-[Link to main resource document](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/SoReMo-ResourcesForFellows.html)
+* For Fellows: [resources for presentations and reports](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/SoReMo-ResourcesForFellows.html)
+* For referees: [Guidelines for refereeing final reports](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/Guidelines-for-refereeing-final-reports.html)
 
 >  Note: if you're just browsing the GitHub folder, you can't preview the html files. To preview within the browser, prepend `https://htmlpreview.github.io/?` to the path in your browser, such as in the above link. 
 
 Student Fellows may use the documents listed below to guide the organization of their writing / presentations.  
 
 **LINKS TO TEMPLATE DOCUMENTS COMING SOON! **
-* final pres templat (open to the public, high-level with less tech detail)
+* final pres template (open to the public, high-level with less tech detail)
 * template for final project report
 
 ------
 
 # Faculty corner
 
-https://bookdown.org/yihui/rmarkdown/rmdformats.html
+The files in this repository are formatted using Markdown; [here are some resources](https://bookdown.org/yihui/rmarkdown/rmdformats.html) to get started. 
 
 ------ 
 
