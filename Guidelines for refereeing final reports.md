@@ -70,7 +70,7 @@ Socially responsible modeling, computation, and design has many facets - at leas
 
 * Validity of proposed project within your discipline;
 * Choice of projects within the discipline of the Fellow;
-* Perceived competitiveness compared  against another project with which you may be familiar;0
+* Perceived competitiveness compared  against another project with which you may be familiar;
 * Whether the project should have really been done differently from the get go.
 
 The last point does not restrain you from offering suggestions in section 5. above. To the contrary, you are welcome to offer suggestions for linking to other areas and/or approaches. But such suggestions are to be considered as potential collaborative or extended activities, and not a value judgement on the current approach. 
