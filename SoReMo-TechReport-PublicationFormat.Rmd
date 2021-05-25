@@ -3,7 +3,9 @@ title: "Title of the report/project"
 author: 
   - FirstName LastName, Illinois Institute of Technology^[This is a technical report required for Fellows who complete an approved and funded project for [Socially Responible Modeling, Computation, and Design](https://www.soremo.org), an initiative at Illinois Tech, [Contact the author](mailto:FirstName.LastName@hawkiit.edu).] 
 date: "Spring 2021 SoReMo Fellowship Project Final Technical Report"
-output: rmdformats::material
+output: 
+  rmdformats::material:
+    cards: false
 css: soremo.css
 ---
 
