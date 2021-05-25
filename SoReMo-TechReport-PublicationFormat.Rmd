@@ -7,6 +7,7 @@ output:
   rmdformats::material:
     cards: true
 css: soremo.css
+bibliography: mybiblio.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -24,6 +25,8 @@ We use Markdown to publish the final reports in [SoReMo](http://journals.library
 > What is the format of this document?
 
 This document  was created using `R Markdown`. You can read more about it [here](https://www.markdownguide.org/getting-started/) and check out a [cheat sheet here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), which will guide you through installing RStudio, and from there the moment you create  a new `.Rmd` document, it will be a  working template to start from.  If you are used to using `LaTeX`, no worries: it can be embedded into `Markdown`, with overall simpler formatting. I hope you find this useful! 
+
+Trying a citation: [see @tryme]. @tryme says... Dylan says [-@tryme]...
 
 # Workflow
 
@@ -49,4 +52,4 @@ For guidelines what to write see the "resources for fellows" document.
 
     
     
-    <!-- # https://stackoverflow.com/questions/41030477/changing-chunk-background-color-in-rmarkdown--> 
+# References 
