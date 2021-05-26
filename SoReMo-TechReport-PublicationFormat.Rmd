@@ -50,6 +50,10 @@ The template was created for publication in [SoReMo](http://journals.library.iit
 For guidelines what to write see the "resources for fellows" document. 
 
 
+# Acknowledgements 
+
+Optional section. 
+The Acknowledgements should contain text acknowledging non-author contributors. Acknowledgements should be brief, and should not include thanks to anonymous referees and editors or effusive comments. Grant or contribution numbers may be acknowledged.
     
     
 # References 
