@@ -38,7 +38,10 @@ submission / review / revision / production / publication workflow
 
 What to write in the report? Check out the tech report section in this document: [resources for presentations and reports](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/SoReMo-ResourcesForFellows.html)
 
----
+## What do I do with the bibliography? 
+
+We need your references in a  bibtex file ! here is how to get it: use [anystyle.io](https://anystyle.io/) or read more [here](https://update.lib.berkeley.edu/2018/02/07/extracting-references-from-an-already-created-bibliography/)
+
 
 
 # License
@@ -57,3 +60,4 @@ The Acknowledgements should contain text acknowledging non-author contributors. 
     
     
 # References 
+
