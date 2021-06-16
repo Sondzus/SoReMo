@@ -1,0 +1,141 @@
+---
+title: "Technical report formatting guidelines" 
+author: 
+  - Sonja Petrovic, Illinois Institute of Technology^[[About the author](http://www.sonjapetrovicstats.com).] 
+date: "SoReMo Summer 2021"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+bibliography: mybiblio.bib
+---
+
+
+# Instructions 
+
+At the end of their projects, SoReMo Fellows submit a technical report. This report is written as an academic paper, a preprint of sorts, and is published formally in our in-house [SoReMo publication](http://journals.library.iit.edu/index.php/Soremo/). 
+
+Each report undergoes a blind review process, where anonymous referees (for example, peer students, students from other disciplines, and faculty) give feedback to the author who then revises their report. SoReMo [editors](http://journals.library.iit.edu/index.php/Soremo/about/editorialTeam) oversee this process. 
+
+Once the revisions are approved as final edits, each report undergoes a production and publication process. This means it needs to be formatted and prepared for publication. Since all of the reports are formatted using `Markdown`, this document guides the authors through some ways in which they can help expedite the process by typing up their reports in this format already. 
+
+Two options to keep in mind: 
+
+* There is nothing you have to download to write a Markdown document.
+* If your report includes code, such as `R` or `Python`, then you likely have no trouble downloading `RStudio` and creating your document that way. 
+
+Next, we will walk you through how to type up and format your report. 
+
+
+## How to create Markdown files
+
+### Option 1: using an online editor
+
+Simple markdown documents can be edited in an online editor! This will work for many of you, so you don't have to download anything. 
+For example, go to [dilinger.io](https://dillinger.io/).  
+Once you open the site, you will have a blank `.md` document ready. Just start typing!  
+
+[Dilinger.io](https://dillinger.io/) allows you to **import** your plain text document from places like Dropbox, Drive, etc; preview them as PDF or HTML;  download / export as Markdown source (this is needed for editing work!) or as HTML or as PDF. You can also export to Dropbox, Google drive, etc. 
+
+> **TIP**: Possibly an easiest approach is to  edit the report  as a plain text file on your computer, follow Markdown formatting ideas as described in this document below, and then  import to Dillinger to generate a PDF of your report for submission. 
+
+
+
+### Option 2: on your computer using RStudio
+
+This particular document  was created using `RMarkdown`. You can read more about it [here](https://www.markdownguide.org/getting-started/) and check out a [cheat sheet here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), which will guide you through installing RStudio, and from there the moment you create  a new `.Rmd` document, it will be a  working template to start from.  If you are used to using `LaTeX`, no worries: it can be embedded into `Markdown`, with overall simpler formatting. 
+
+Once you edit your document in Rstudio you can click the button "knit" which will generate an html file and you can submit that. You can also generate a PDF instead -- simply replace `  html_document` in the document preamble by `pdf_document`, and knit again! 
+
+
+
+## What is the submission process? 
+
+What happens after you are done with writing the report is fairly standard in academic publishing. Namely: 
+
+* You will submit the report for review;
+* it will receive at least 2 and likely 3 blind reviews, 
+* you will then get feedback along with additional editorial comments; 
+* you will revise it, and communicate with the editors until the revisions are finalized and approved. 
+
+The report will then be sent to production where it will be formatted like [one of these](http://soremo.library.iit.edu/index.php/Soremo/issue/current). 
+
+**You will be sent final page proofs** to check for any errors, typos, etc. before the reports are published on the website. 
+
+## What do I write in the report itself? 
+
+ Check out the tech report section in this document: [resources for presentations and reports](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/SoReMo-ResourcesForFellows.html)
+
+## What do I do with the bibliography and citations? 
+
+We are flexible, but would be happy to have you help us format properly if that is possible. 
+
+Ultimately, we need your references in a  bibtex file! If you've never heard of it, you can start with plain text and then obtain one online like this: copy and paste using the instructions on this site [anystyle.io](https://anystyle.io/). For more information, please read  [this](https://update.lib.berkeley.edu/2018/02/07/extracting-references-from-an-already-created-bibliography/). 
+
+**Note**: in Markdown, your bibliography items will not appear in the formatted document unless you do the following things:
+
+* save your bilbiography in a file called, for example, mybiblio.bib, formatted according to bibtex; 
+* add a line `bibliography: mybiblio.bib` at the preamble of this document; and 
+* actually cite the references in text;
+* end your document with an empty 'References' section, as shown in this document. Markdown will then automatically format everything and place the bibliography at the right place, in the right order. 
+
+Luckily, citations in Markdown are super easy. For example, for a citation whose key is `testCitation`, which can be seen by looking at the bib file^[A bib file is just a plain text formatted to be parsed automatically. Open it!] which will say something like `@article{testCitation,`, you can cite it like this:
+
+```
+@testCitation says .... some quote. 
+Also, for more information, see [@testCitation]. 
+You can also say things like:  Dylan says [-@testCitation]...
+``` 
+The code above produces the following: 
+ 
+@testCitation says .... some quote. 
+Also, for more information, see [@testCitation]. 
+You can also say things like:  Dylan says [-@testCitation]...
+
+> **TIP**: if you are having trouble or using an online editor, just include plain text bibliography manually within a References section. A production editor will do the final formatting. 
+
+## Including figures
+
+![Figure 1: All figures must be numbered and have a caption stating what the figure is.](https://lh6.googleusercontent.com/qASfH3XFRA2YGxTWzLs2XrjtMa7j5YzLdTXksZ80IDMqCkvpNc8RjfGbZcRwMk4Mm28Ftu_nJIQgafZJqRFhbi1XNY0qbQrhD3VeBJ5J6E6G-nKl=w1280)
+
+In order to include a figure, you should specify the path.
+You will need to submit all your figures figures with your report before publication! Save them in a folder, zip, and upload; or upload one by one, as supplementary files,  on the site when you create your submission. 
+
+Note that the figure caption will not appear unless there is a blank line after the figure. 
+
+
+## Including tables 
+
+| column 1 | column 2| column 3|
+|---|---|---|
+|one| 4 | $1 |
+|two | hello| 'code'| 
+|| Total cost: $4||
+  : here's a markdown table with a  caption! 
+
+
+## Including code
+
+```
+Here is a code chunk. It does not specify what language the code is written in,
+so it's not executed.
+```
+
+```{r}
+# here is an R code chunk
+print("hello world")  
+```
+
+
+# License
+
+The template was created for publication in [SoReMo](http://journals.library.iit.edu/index.php/Soremo/). 
+
+Authors of the reports retain copyright of their work. 
+
+This document is created  for [SoReMo](www.soremo.org) and is released under the same licence as the parent folder on Github. 
+
+
+    
+# References 
+
