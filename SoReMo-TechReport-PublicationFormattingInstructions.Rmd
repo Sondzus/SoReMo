@@ -103,6 +103,7 @@ You will need to submit all your figures figures with your report before publica
 
 Note that the figure caption will not appear unless there is a blank line after the figure. 
 
+**Requirement:** you will need to submit all  figures as  separate .png, .jpg, or .pdf files. Please make sure to give filenames that are easy to call for an editor, for example, "Figure 1" file should be named something like "figure1.png" or "fig1.png" or simply "1.png" - no spaces please. 
 
 ## Including tables 
 
