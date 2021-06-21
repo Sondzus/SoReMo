@@ -1,8 +1,8 @@
 ---
 title: "Technical report template document" 
+subtitle: "Spring/Fall 20XX SoReMo Fellowship Project Final Technical Report"
 author: 
   - FirstName  LastName, Illinois Institute of Technology^[[Contact the author](mailto:YOUREMAILHERE@hawk.iit.edu).] 
-date: "Spring/Fall 20XX SoReMo Fellowship Project Final Technical Report"
 output: 
   html_document:
     toc: true

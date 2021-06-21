@@ -1,8 +1,8 @@
 ---
 title: "Technical report formatting guidelines" 
+subtitle: "SoReMo Summer 2021"
 author: 
   - Sonja Petrovic, Illinois Institute of Technology^[[About the author](http://www.sonjapetrovicstats.com).] 
-date: "SoReMo Summer 2021"
 output: 
   html_document:
     toc: true
