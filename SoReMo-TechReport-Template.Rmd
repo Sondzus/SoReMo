@@ -9,8 +9,8 @@ output:
     toc_depth: 1
     fig_width: 2
     fig_caption: true
-urlcolor: darkblue
-linkcolor: darkblue
+urlcolor: cyan
+linkcolor: cyan
 bibliography: mybiblio.bib
 ---
 
