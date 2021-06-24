@@ -29,7 +29,7 @@ Student Fellows may use the documents listed below to guide the organization of 
 
 <!-- (see also the [.Rmd source file](https://sondzus.github.io/SoReMo/SoReMo-TechReport-PublicationFormattingInstructions.Rmd). --> 
 
-* Final report [template document](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.Rmd) -- and here is what that document will produce: [preview html](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.html). 
+* Final report [template document](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.Rmd) -- and here is what that document will produce: [preview html](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.pdfl). 
 *  !!  final presentation template **coming soon**
 
 ------
