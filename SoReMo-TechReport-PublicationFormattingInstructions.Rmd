@@ -3,19 +3,17 @@ title: "Technical report formatting guidelines"
 subtitle: "SoReMo Summer 2021"
 author: 
   - Sonja Petrovic, Illinois Institute of Technology^[[About the author](http://www.sonjapetrovicstats.com).] 
-output: 
-  html_document:
-    toc: true
-    toc_depth: 2
+output: rmdformats::readthedown
+urlcolor: darkblue
 bibliography: mybiblio.bib
 ---
 
 
-# Instructions 
+# Overview: submission process  and file formats 
 
 At the end of their projects, SoReMo Fellows submit a technical report. This report is written as an academic paper, a preprint of sorts, and is published formally in our in-house [SoReMo publication](http://journals.library.iit.edu/index.php/Soremo/). 
 
-Each report undergoes a blind review process, where anonymous referees (for example, peer students, students from other disciplines, and faculty) give feedback to the author who then revises their report. SoReMo [editors](http://journals.library.iit.edu/index.php/Soremo/about/editorialTeam) oversee this process. 
+Each report undergoes a blind review process, where anonymous referees (for example, peer students, students from other disciplines, and faculty) give feedback to the author who then revises their report. SoReMo [editors](https://journals.library.iit.edu/index.php/Soremo/about/editorialTeam) oversee this process. 
 
 Once the revisions are approved as final edits, each report undergoes a production and publication process. This means it needs to be formatted and prepared for publication. Since all of the reports are formatted using `Markdown`, this document guides the authors through some ways in which they can help expedite the process by typing up their reports in this format already. 
 
@@ -40,7 +38,6 @@ Once you open the site, you will have a blank `.md` document ready. Just start t
 > **TIP**: Possibly an easiest approach is to  edit the report  as a plain text file on your computer, follow Markdown formatting ideas as described in this document below, and then  import to Dillinger to generate a PDF of your report for submission. 
 
 
-
 ### Option 2: on your computer using RStudio
 
 This particular document  was created using `RMarkdown`. You can read more about it [here](https://www.markdownguide.org/getting-started/) and check out a [cheat sheet here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), which will guide you through installing RStudio, and from there the moment you create  a new `.Rmd` document, it will be a  working template to start from.  If you are used to using `LaTeX`, no worries: it can be embedded into `Markdown`, with overall simpler formatting. 
@@ -49,7 +46,7 @@ Once you edit your document in Rstudio you can click the button "knit" which wil
 
 
 
-## What is the submission process? 
+## The submission process 
 
 What happens after you are done with writing the report is fairly standard in academic publishing. Namely: 
 
@@ -58,15 +55,18 @@ What happens after you are done with writing the report is fairly standard in ac
 * you will then get feedback along with additional editorial comments; 
 * you will revise it, and communicate with the editors until the revisions are finalized and approved. 
 
-The report will then be sent to production where it will be formatted like [one of these](http://soremo.library.iit.edu/index.php/Soremo/issue/current). 
+The report will then be sent to production where it will be formatted like [one of these](https://soremo.library.iit.edu/index.php/Soremo/issue/current). 
 
 **You will be sent final page proofs** to check for any errors, typos, etc. before the reports are published on the website. 
 
-## What do I write in the report itself? 
+## Report  contents  
 
- Check out the tech report section in this document: [resources for presentations and reports](https://htmlpreview.github.io/?https://github.com/Sondzus/SoReMo/blob/main/SoReMo-ResourcesForFellows.html)
+ Check out the tech report section in this document: [resources for presentations and reports](https://sondzus.github.io/SoReMo/SoReMo-ResourcesForFellows.html)
 
-## What do I do with the bibliography and citations? 
+
+#  Technical: bibliography, figures, tables, and code 
+
+## What to do with the bibliography and citations 
 
 We are flexible, but would be happy to have you help us format properly if that is possible. 
 
@@ -103,7 +103,7 @@ You will need to submit all your figures figures with your report before publica
 
 Note that the figure caption will not appear unless there is a blank line after the figure. 
 
-**Requirement:** you will need to submit all  figures as  separate .png, .jpg, or .pdf files. Please make sure to give filenames that are easy to call for an editor, for example, "Figure 1" file should be named something like "figure1.png" or "fig1.png" or simply "1.png" - no spaces please. 
+**Requirement:** you will need to submit all  figures as  separate .png, .jpg, or .pdf files. Please make sure to give filenames that are easy to call for an editor, for example, "Figure 1" file should be named something like "yourname.figure1.png" or "yourname.fig1.png" or simply "yourname.1.png" - no spaces please. 
 
 ## Including tables 
 
@@ -130,11 +130,11 @@ print("hello world")
 
 # License
 
-The template was created for publication in [SoReMo](http://journals.library.iit.edu/index.php/Soremo/). 
+The template was created for publication in [SoReMo reports](https://soremo.library.iit.edu). 
 
 Authors of the reports retain copyright of their work. 
 
-This document is created  for [SoReMo](www.soremo.org) and is released under the same licence as the parent folder on Github. 
+This document is created  for [SoReMo](https://www.soremo.org) and is released under the same license as the parent [folder](https://sondzus.github.io/SoReMo/) on Github. 
 
 
     

@@ -3,10 +3,14 @@ title: "Technical report template document"
 subtitle: "Spring/Fall 20XX SoReMo Fellowship Project Final Technical Report"
 author: 
   - FirstName  LastName, Illinois Institute of Technology^[[Contact the author](mailto:YOUREMAILHERE@hawk.iit.edu).] 
-output: 
-  html_document:
+output:
+  pdf_document: 
     toc: true
-    toc_depth: 2
+    toc_depth: 1
+    fig_width: 2
+    fig_caption: true
+urlcolor: darkblue
+linkcolor: darkblue
 bibliography: mybiblio.bib
 ---
 
@@ -64,7 +68,7 @@ The template was created for publication in [SoReMo](http://journals.library.iit
 
 Authors of the reports retain copyright of their work. 
 
-This document is created by [Sonja Petrovic](www.sonjapetrovicstats.com) for [SoReMo](www.soremo.org) and is released under the same licence as the parent folder on Github. 
+This document is created by [Sonja Petrovic](www.sonjapetrovicstats.com) for [SoReMo](www.soremo.org) and is released under the same licence as the parent [folder](https://sondzus.github.io/SoReMo/) on Github. 
 
 # Acknowledgements 
 

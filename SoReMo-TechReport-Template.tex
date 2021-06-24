@@ -1,0 +1,206 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Technical report template document},
+  pdfauthor={FirstName LastName, Illinois Institute of Technology},
+  colorlinks=true,
+  linkcolor=darkblue,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=darkblue,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\title{Technical report template document}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Spring/Fall 20XX SoReMo Fellowship Project Final Technical Report}
+\author{FirstName LastName, Illinois Institute of Technology\footnote{\href{mailto:YOUREMAILHERE@hawk.iit.edu}{Contact
+  the author}.}}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{abstract}{%
+\section{Abstract}\label{abstract}}
+
+Write your abstract in plain English. Why did you do this project? What
+did it accomplish?
+
+\hypertarget{background-or-introduction}{%
+\section{Background or introduction}\label{background-or-introduction}}
+
+Tell us more about the \emph{context} of your project. Make sure to cite
+other work on which you're building. Line breaks do not matter unless
+there is a blank line between two lines of text - then it's a new
+paragraph,
+
+like it just happened here.
+
+\hypertarget{another-section-such-as-technical-details}{%
+\section{Another section, such as technical
+details}\label{another-section-such-as-technical-details}}
+
+What exactly did you do? Data, figures, etc.
+
+\hypertarget{here-is-a-subsection}{%
+\subsection{Here is a subsection}\label{here-is-a-subsection}}
+
+you can focus on a specific aspect.
+
+\begin{quote}
+Here is a quote.
+\end{quote}
+
+\hypertarget{here-is-a-sub-subsection-with-lists}{%
+\subsubsection{Here is a sub-subsection with
+lists}\label{here-is-a-sub-subsection-with-lists}}
+
+And in it I want to include a list:
+
+\begin{itemize}
+\tightlist
+\item
+  item 1
+\item
+  item 2
+\item
+  but there often needs to be a blank line before a bulleted list, for
+  Markdown to recognize it and format as a list!,
+\end{itemize}
+
+or a numbered, nested one:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  i like
+\item
+  lists so much
+
+  \begin{itemize}
+  \tightlist
+  \item
+    but they have to be
+  \item
+    easy to read.
+
+    \begin{itemize}
+    \tightlist
+    \item
+      indentation does the trick.
+    \end{itemize}
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{future-work}{%
+\section{Future work}\label{future-work}}
+
+What might be a cool followup to this project? how would you imagine its
+impact?
+
+\hypertarget{executive-summary-or-action-proposal}{%
+\section{Executive summary, or action
+proposal}\label{executive-summary-or-action-proposal}}
+
+Specific things you propose to be done, action items as a direct result
+of your project; \emph{or} specific outcomes already observed. The
+project's impact on key stakeholders, whom you've clearly identified.
+
+\hypertarget{license}{%
+\section{License}\label{license}}
+
+The template was created for publication in
+\href{http://journals.library.iit.edu/index.php/Soremo/}{SoReMo}.
+
+Authors of the reports retain copyright of their work.
+
+This document is created by \href{www.sonjapetrovicstats.com}{Sonja
+Petrovic} for \href{www.soremo.org}{SoReMo} and is released under the
+same licence as the parent
+\href{https://sondzus.github.io/SoReMo/}{folder} on Github.
+
+\hypertarget{acknowledgements}{%
+\section{Acknowledgements}\label{acknowledgements}}
+
+Optional section. The Acknowledgements should contain text acknowledging
+non-author contributors. Acknowledgements should be brief, and should
+not include thanks to anonymous referees and editors or effusive
+comments. If applicable, additional grant numbers or supporting agencies
+may be acknowledged.
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+If you are able to knit your own HTML/PDF from Markdown, leave this
+section blank. The bibliography will be created from your file
+\texttt{mybiblio.bib.} If you are uncomfortable, add your references
+here in style as close to BibTex as possible, and the editors will help
+with the rest.
+
+\end{document}
