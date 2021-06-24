@@ -7,7 +7,7 @@ Socially Responsible Modeling, Computation, and Design
 
 ## Fellows 
 
-Current fellows are listed [here](http://www.soremo.org/fellows). 
+Current fellows are listed [here](http://www.soremo.org/people/fellows). 
 
 ## Publications
 
