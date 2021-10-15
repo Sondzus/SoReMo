@@ -30,6 +30,9 @@ Student Fellows may use the documents listed below to guide the organization of 
 <!-- (see also the [.Rmd source file](https://sondzus.github.io/SoReMo/SoReMo-TechReport-PublicationFormattingInstructions.Rmd). --> 
 
 * Final report template document: [download .Rmd](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.Rmd) or [view markdown online](https://github.com/Sondzus/SoReMo/blob/main/SoReMo-TechReport-Template.Rmd) -- and here is what that document will produce: [preview PDF](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.pdf). 
+
+    * see also this cool cookbook! [Making BBC style graphics](https://bbc.github.io/rcookbook/)
+
 *  !!  final presentation template **coming soon**
 
 ------
