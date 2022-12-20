@@ -1,6 +1,6 @@
 ---
 title: "Resources for SoReMo Fellows" 
-subtitle: "Spring 2021 SoReMo Fellowships"
+subtitle: "Spring 2021, updated Fall 2022."
 author: 
   - Sonja Petrović, for SoReMo^[Socially Responible Modeling, Computation, and Design - a grassroots initiative at Illinois Tech.  [Homepage](https://www.soremo.org), [Email](mailto:sonja.petrovic@iit.edu).] 
 output: rmdformats::readthedown

@@ -1,0 +1,72 @@
+---
+title: "Resources for SoReMo Faculty" 
+subtitle: "Forum Learning Objectives"
+author: 
+  - Sonja Petrović, for SoReMo^[Socially Responible Modeling, Computation, and Design - a grassroots initiative at Illinois Tech.  [Homepage](https://www.soremo.org), [Email](mailto:sonja.petrovic@iit.edu).] 
+output: rmdformats::readthedown
+urlcolor: darkblue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,comment = '', fig.width = 3, fig.height = 3
+  )
+```
+
+---
+
+## Context
+
+SoReMo faculty who are part of our core group have access to the [early planning document](https://docs.google.com/document/d/1mCjJNUbAErejUYBNbp2D2hdbaBFKa9WG3RI47-H5TDQ/edit?usp=sharing). (*New to this and need access? Email Sonja or anyone else who is in the core group for access.*) 
+The following objectives are extracted from that document. 
+
+## Fellow learning objectives 
+
+#### Awareness 
+* Active SoReMo seminar student participants (henceforth: “students”) will be able to identify issues related to social responsibility  and civic engagement in their past coursework and (IPRO or other) projects. 
+
+#### Oral communication
+* Students will be able to communicate effectively with audiences outside their disciplines about issues and solutions from their projects. 
+
+#### Written communication 
+* Students will be able to write a professionally formatted technical report on their SoRe experience work, understandable by all seminar participants, faculty, and advisors. 
+
+#### Practical experience 
+* Students will gain experience in delivering technical advice to various stakeholders (other students, faculty, advisors) on issues related to SoRe that are related to their field of expertise, experience, or study.
+
+#### Outreach 
+* Students will be able to work with the SoReMo faculty and advisor network to identify pathways that can help them reach agents of social and civic change in their community. 
+
+#### Application, interdisciplinarity, and applied problem solving. 
+* Students will learn to identify technical gaps and opportunities for further  research or project development arising from their SoRe-related work in (IPRO or other course) projects. 
+
+#### Peer review of technical reports 
+* Students will learn to provide written and oral constructive feedback for others, likely outside their disciplines. 
+
+
+
+--- 
+
+# Appendix 
+
+> What is the format of this document?
+
+This document  was created using `R Markdown`. You can read more about it [here](https://www.markdownguide.org/getting-started/) and check out a [cheat sheet here](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf), which will guide you through installing RStudio, and from there the moment you create  a new `.Rmd` document, it will be a  working template to start from.  If you are used to using `LaTeX`, no worries: it can be embedded into `Markdown`, with overall simpler formatting. I hope you find this useful! 
+
+## Notes
+This document is work in progress. The first iteration was made to gather information from 2022 and 2021 so that we can streamline invovlement of more faculty in 2023 and going forward. 
+
+---
+
+
+# License
+
+This document  was first created for SoReMo in December 2022. 
+The materials listed here are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][image]][hyperlink]
+
+  [hyperlink]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  [image]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+    
