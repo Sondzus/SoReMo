@@ -36,6 +36,8 @@ Student Fellows may use the documents listed below to guide the organization of 
 
 # Faculty corner
 
+Fellow learning objectives [document is here](https://sondzus.github.io/SoReMo/SoReMo-Forum-LearningObjectives).
+
 The files in this repository are formatted using Markdown; [here are some resources](https://bookdown.org/yihui/rmarkdown/rmdformats.html) to get started. 
 
 ------ 
