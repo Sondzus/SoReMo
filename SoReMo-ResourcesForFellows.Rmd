@@ -36,6 +36,18 @@ If you are curious you can view two of the intro slides here: ***COMING SOON***
 
   
   
+  
+# Progress reports and bimonthly check-ins
+
+## Master document for organizing your references 
+Here is a resource that Angela Petrone, a Spring 2023 Fellow, provided to the group: a Google document she called 'Master document' in which she kept track of all the research links and tasks she is carrying out and, most importantly, an *organized bibliography*. This will be super helpful in preparation of the final technical report, as the citations for the report need to be organized similarly. Here is a [link to document](TemplateSoReMoMasterDoc.docx) and [PDF version](TemplateSoReMoMasterDoc.pdf). 
+
+## Progress report slides 
+
+What  should you "present" at check-ins? Really, a summary of where you are, so that both you and the audience of advisors and peers can help identify any issues in your project early on, and help resolve them. 
+
+Here is a good example of [one Fellow's Forum slides](PetroneForumFeb23.pdf); the starting point for these slides was a **Google slides template**: the template is under *Google Slides Templates > Work > Case study*. 
+
 # Final presentation dry-runs 
 
 This presentation is a 'warm-up' for the final one, and  only  Illinois Tech participants will be invited.  Others only if they are critical advisors and you and/or they feel like they need to be present. 
