@@ -22,6 +22,8 @@ Current fellows are listed [here](http://www.soremo.org/people/fellows).
 >  **Pro-tip**: if you're just browsing the main GitHub folder, rather than viewing this site as a site, you can't preview the html files. To preview within the browser, prepend `https://htmlpreview.github.io/?` to the path in your browser, such as in the above links! 
 
 Student Fellows may use the documents listed below to guide the organization of their writing / presentations.  
+* Read about how to visualize data and communicate strategically to your audience: [Download](https://github.com/Sondzus/SoReMo/blob/Seunaj-patch-1/soremo_%20data%20viz.pdf)
+* Learn about public interest technology and the advantages: [Download](https://github.com/Sondzus/SoReMo/blob/Seunaj-patch-1/PIT-Career.pdf)  
 
 ## Document links and technical report information 
 
@@ -30,13 +32,16 @@ Student Fellows may use the documents listed below to guide the organization of 
 <!-- (see also the [.Rmd source file](https://sondzus.github.io/SoReMo/SoReMo-TechReport-PublicationFormattingInstructions.Rmd). --> 
 
 * Final report template document: [download .Rmd](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.Rmd) or [view markdown online](https://github.com/Sondzus/SoReMo/blob/main/SoReMo-TechReport-Template.Rmd) -- and here is what that document will produce: [preview PDF](https://sondzus.github.io/SoReMo/SoReMo-TechReport-Template.pdf). 
+
+    * see also this cool cookbook! [Making BBC style graphics](https://bbc.github.io/rcookbook/)
+ 
+* Video [tutorial](https://youtu.be/CK_5BNsiusE) on creating and formatting the final report. 
+
 *  !!  final presentation template **coming soon**
 
 ------
 
 # Faculty corner
-
-Fellow learning objectives [document is here](https://sondzus.github.io/SoReMo/SoReMo-Forum-LearningObjectives).
 
 The files in this repository are formatted using Markdown; [here are some resources](https://bookdown.org/yihui/rmarkdown/rmdformats.html) to get started. 
 
