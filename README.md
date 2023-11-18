@@ -22,8 +22,8 @@ Current fellows are listed [here](http://www.soremo.org/people/fellows).
 >  **Pro-tip**: if you're just browsing the main GitHub folder, rather than viewing this site as a site, you can't preview the html files. To preview within the browser, prepend `https://htmlpreview.github.io/?` to the path in your browser, such as in the above links! 
 
 Student Fellows may use the documents listed below to guide the organization of their writing / presentations.  
-* Read about how to visualize data and communicate strategically to your audience: [Download](https://github.com/Sondzus/SoReMo/soremo_data_viz.pdf)
-* Learn about public interest technology and the advantages: [Download](https://github.com/Sondzus/SoReMo/PIT-Career.pdf)  
+* Read about how to visualize data and communicate strategically to your audience: [Download](https://sondzus.github.io/SoReMo/soremo_data_viz.pdf)
+* Learn about public interest technology and the advantages: [Download](https://sondzus.github.io/SoReMo/PIT-Career.pdf)  
 
 ## Document links and technical report information 
 
