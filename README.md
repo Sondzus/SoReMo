@@ -9,6 +9,8 @@ Socially Responsible Modeling, Computation, and Design
 
 Current fellows are listed [here](http://www.soremo.org/people/fellows). 
 
+*A link to an outline of how to write a good proposal is coming soon.*
+
 ## Publications
 
 [The SoReMo Journal](http://journals.library.iit.edu/index.php/Soremo) is hosted by Galvin Library at Illinois Tech.
@@ -23,7 +25,7 @@ Current fellows are listed [here](http://www.soremo.org/people/fellows).
 
 Student Fellows may use the documents listed below to guide the organization of their writing / presentations.  
 * Read about how to visualize data and communicate strategically to your audience: [Download](https://sondzus.github.io/SoReMo/soremo_data_viz.pdf)
-* Learn about public interest technology and the advantages: [Download](PIT-Career.pdf)  
+* Learn about public interest technology and the advantages: [Download](https://sondzus.github.io/SoReMo/PIT-Career.pdf)  
 
 ## Document links and technical report information 
 
