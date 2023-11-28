@@ -20,6 +20,8 @@ Current fellows are listed [here](http://www.soremo.org/people/fellows).
 
 * For Fellows: [resources for presentations and reports](https://sondzus.github.io/SoReMo/SoReMo-ResourcesForFellows.html)
 * For referees: [Guidelines for refereeing final reports](https://sondzus.github.io/SoReMo/Guidelines-for-refereeing-final-reports.html)
+* For **Prospective fellows**: Students who are interested in becoming a SoReMo fellow can join the office hours of a past fellow. During the office hours, you will learn about the SoReMo fellowship and you can learn how to draft a good project/research proposal.
+>  **Office hour (Zoom)**: Every Wednesday 11:00 am - 12:00 noon (except holidays). Students can join the zoom [link](https://iit-edu.zoom.us/j/83055775445?pwd=ODlqcWNOUUVqN2hqa2hPdkNBUWNmQT09)
 
 >  **Pro-tip**: if you're just browsing the main GitHub folder, rather than viewing this site as a site, you can't preview the html files. To preview within the browser, prepend `https://htmlpreview.github.io/?` to the path in your browser, such as in the above links! 
 
