@@ -9,8 +9,6 @@ Socially Responsible Modeling, Computation, and Design
 
 Current fellows are listed [here](http://www.soremo.org/people/fellows). 
 
-*A link to an outline of how to write a good proposal is coming soon.*
-
 ## Publications
 
 [The SoReMo Journal](http://journals.library.iit.edu/index.php/Soremo) is hosted by Galvin Library at Illinois Tech.
@@ -23,7 +21,13 @@ Current fellows are listed [here](http://www.soremo.org/people/fellows).
 * For **Prospective fellows**: Students who are interested in becoming a SoReMo fellow can join the office hours of a past fellow. During the office hours, you will learn about the SoReMo fellowship and you can learn how to draft a good project/research proposal.
 >  **Office hour (Zoom)**: Every Wednesday 11:00 am - 12:00 noon (except holidays). Students can join the zoom [link](https://iit-edu.zoom.us/j/83055775445?pwd=ODlqcWNOUUVqN2hqa2hPdkNBUWNmQT09)
 
+>  **Office hour (Zoom)**:  these are scheduled weekly during the Fall semesters, in order to prepare for Decmeber proposal deadline and Spring semester projects. 
+
+<!--Every Wednesday 11:00 am - 12:00 noon (except holidays). Students can join the zoom [link](https://iit-edu.zoom.us/j/83055775445?pwd=ODlqcWNOUUVqN2hqa2hPdkNBUWNmQT09)--> 
+
+<!-- 
 >  **Pro-tip**: if you're just browsing the main GitHub folder, rather than viewing this site as a site, you can't preview the html files. To preview within the browser, prepend `https://htmlpreview.github.io/?` to the path in your browser, such as in the above links! 
+--> 
 
 Student Fellows may use the documents listed below to guide the organization of their writing / presentations.  
 * Read about how to visualize data and communicate strategically to your audience: [Download](https://sondzus.github.io/SoReMo/soremo_data_viz.pdf)
