@@ -188,9 +188,144 @@ Additional analyses, figures, tables, code, any other parts of the 'report' you 
 
 
 ## Formatting
-template - .md or .tex, if those are your choices. **coming soon.** 
+template - .md.  Please see the main resources page for formatting using markdown. If you choose to write a word or google doc, please try to help us out by formatting your references as close as possible to the markdown requirements! 
 
---- 
+## BEST PRACTICES for what to include in each section 
+
+
+These guidelines summarize best practices for writing SoReMo technical reports that balance academic rigor, community accessibility, and ethical communication. They apply to all SoReMo Fellows, regardless of discipline or project topic.
+
+
+### **1. Know Your Dual Audience**
+SoReMo reports typically serve **two audiences**:
+
+- **Academic readers** (for publication in the SoReMo Journal)  
+- **Community readers** (stakeholders, residents, organizers, policymakers)
+
+Your report should be structured so both groups can understand and use your work.
+
+**General rule:**  
+- **Full technical detail → main body for journal publication**  
+- **Simplified explanations → summaries or appendices for community versions**
+
+
+### **2. Start With a Clear, Relatable Problem Statement**
+Open with a concrete scenario or example that helps readers understand *why your project matters*.
+
+Good openings:
+- Describe a real‑world situation  
+- Use a short narrative or everyday analogy  
+- Connect the issue to lived experience  
+
+Avoid:
+- Starting with abstract theory  
+- Leading with dense technical language  
+
+### **3. Explain Key Concepts in Plain Language**
+Every project has terms that may be unfamiliar to non‑experts. Define them early and simply.
+
+Tips:
+- Use analogies  
+- Provide short definitions  
+- Add a glossary if needed  
+
+Your goal is to make the report readable without sacrificing accuracy.
+
+### **4. Use Case Studies or Examples When Possible**
+Concrete examples help readers understand the stakes and context of your work.
+
+Examples can include:
+- A neighborhood  
+- A dataset  
+- A historical event  
+- A policy decision  
+- A specific user group  
+
+Case studies make abstract issues more tangible.
+
+### **5. Keep Technical Sections Rigorous but Organized**
+Your methodology should be transparent and replicable. For the SoReMo Journal, include:
+
+- Data sources  
+- Analytical methods  
+- Assumptions and limitations  
+- System or model design  
+- Visuals or diagrams if helpful  
+
+For community‑facing versions, consider:
+- Moving technical detail to an appendix  
+- Providing a short “How this works (in simple terms)” summary  
+
+### **6. Make Your Findings Actionable**
+Every SoReMo project should help someone make a better decision.
+
+Include:
+- Clear takeaways  
+- Practical recommendations  
+- Tools, templates, or questions stakeholders can use  
+- Policy or design implications  
+
+Avoid vague or purely descriptive conclusions.
+
+### **7. Use Visuals Thoughtfully**
+Visuals help readers understand complex information quickly.
+
+Useful visuals include:
+- Maps  
+- Diagrams  
+- Flowcharts  
+- Before/after comparisons  
+- Simple charts  
+
+Make sure visuals are:
+- Labeled  
+- Interpretable  
+- Accessible (color‑blind friendly, readable text)  
+
+### **8. Be Transparent About Limitations**
+Every project has constraints. A strong report acknowledges them clearly.
+
+Examples:
+- Data gaps  
+- Uncertainty  
+- Assumptions  
+- Scope boundaries  
+
+This builds trust and strengthens your conclusions.
+
+### **9. Maintain an Ethical Lens**
+SoReMo emphasizes socially responsible modeling. Your report should reflect:
+
+- Awareness of equity impacts  
+- Consideration of who benefits and who is burdened  
+- Transparency about risks  
+- Respect for affected communities  
+
+Ethics should appear throughout the report, not only in one section.
+
+### **10. End With a Clear, Grounded Conclusion**
+Your conclusion should:
+
+- Summarize the main insights  
+- Reconnect to the original problem  
+- Highlight what your work enables next  
+- Avoid overstating certainty  
+
+A good conclusion leaves readers with clarity, not confusion.
+
+### **11. Optional but Encouraged: Create a Community‑Friendly Version**
+If your project affects real people, consider preparing:
+
+- A 1–2 page summary  
+- A handout  
+- A slide deck  
+- A simplified appendix  
+- A “community explainer”  
+
+This helps your work reach beyond the academic setting.
+
+
+
 
 # Appendix 
 
